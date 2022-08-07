@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @grilgamesh, David Griliopoulos
-- 👀 I’m interested in presenting data, programming, multi-media projects.
+- 👋 Hi, I’m David Griliopoulos
+- 👀 I’m interested in making data accessible, programming, multi-media projects.
 - 🌱 I’m currently learning Data Analysis at University of Birmingham.
 - 💞️ I’m looking to collaborate on websites, tools, interactivities, music...
 - 📫 How to reach me: grilly@gmail.com
