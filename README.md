@@ -1,6 +1,7 @@
 - 👋 Hi, I’m David Griliopoulos
 - 👀 I’m interested in making data accessible, programming, multi-media projects.
-- 🌱 I’m currently learning Data Analysis at University of Birmingham.
+- :scroll: Data Analysis Certificate, University of Birmingham 2022
+- :robot: Computer Science and Artificial Intelligence (hons), Universtity of Sussex 2005
 - 💞️ I’m looking to collaborate on websites, tools, interactivities, music...
 - 📫 How to reach me: grilly@gmail.com
 
